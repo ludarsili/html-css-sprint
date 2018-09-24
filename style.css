@@ -1,9 +1,13 @@
-body {
+body { 
+	background-color: #4267B2;
 
 font-family: 'Spirax', cursive;
 }
 
-h1 {font-family: 'Gloria Hallelujah', cursive;}
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
 a{
 	color: blue;
 }
